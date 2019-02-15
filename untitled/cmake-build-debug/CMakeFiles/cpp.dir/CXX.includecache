@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/Bruker/CLionProjects/untitled/main.cpp
+iostream
+-
+thread
+-
+vector
+-
+math.h
+-
+mutex
+-
+bits/stdc++.h
+-
+chrono
+-
+
